@@ -1,1 +1,1 @@
-# borsa_bilimi.html
+# borsa_bilimi
